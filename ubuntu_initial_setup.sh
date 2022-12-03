@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo "Updating the repositories..."
 sudo apt update
